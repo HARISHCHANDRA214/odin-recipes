@@ -1,0 +1,1 @@
+This repo is following steps of odin project.
